@@ -2,7 +2,10 @@
 
 <a href="https://www.behance.net/gallery/87602523/Chill-Mario" target="_blank">
   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/22b22287602523.5dbd29081561d.gif"/>
-</a><br><br>
+</a>
+
+<p align="right">Gif credit: <a href="https://www.behance.net/gallery/87602523/Chill-Mario" target="_blank">Pixel Jeff</a></p>
+<br><br>
 
 <div align="center">
   <a href="https://github.com/lucianakyoko">
