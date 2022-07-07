@@ -31,12 +31,7 @@
   ##
 <div align="center"> 
   <a href="www.linkedin.com/in/lucianakyoko" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white target="_blank"></a>
-  <a href="https://instagram.com/lukyoko.jpg" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://pt.stackoverflow.com/users/213097/luciana-kyoko" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a>
-  <a href="https://codepen.io/lucianakyoko" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>
-  <a href="https://www.goodreads.com/user/show/121454267-luciana-kyoko" target="_blank"><img src="https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white" target="_blank"></a>
- <a href="https://lucianakyoko.com" target="_blank"><img height="30"  src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" target="_blank"></a> 
- </div>
+</div>
     
 <!--  ##
  ![Snake animation](https://github.com/lucianakyoko/lucianakyoko/blob/output/github-contribution-grid-snake.svg)  -->
