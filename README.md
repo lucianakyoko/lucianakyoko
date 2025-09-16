@@ -49,8 +49,7 @@
       "website": "https://lucianakyoko.vercel.app/",
       "githubUser": "lucianakyoko",
       "linkedinUser": "https://www.linkedin.com/in/lucianakyoko/",
-      "about": "Apaixonada por código, movida pela curiosidade e dedicada a criar experiências únicas.
-Cada projeto que desenvolvo carrega uma parte de mim, são feitos com carinho, dedicação e o desejo constante de seguir evoluindo. Acredito que a tecnologia é um campo onde nunca se para de aprender, e estou animada para ver onde essa jornada me levará.",
+      "about": Apaixonada por código, movida pela curiosidade e dedicada a criar experiências únicas.\\nCada projeto que desenvolvo carrega uma parte de mim, são feitos com carinho, dedicação e o desejo constante de seguir evoluindo.\\nAcredito que a tecnologia é um campo onde nunca se para de aprender, e estou animada para ver onde essa jornada me levará.",
       "showStars": "true",
       "showFollowers": "true",
       "followers": "189",
