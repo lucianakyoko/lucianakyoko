@@ -55,7 +55,7 @@
   "showFollowers": true,
   "followers": 189,
   "following": 57,
-  "themeId": "creative",
+  "themeId": "professional",
   "tech": ["React", "TypeScript", "Next.JS", "Node.js", "NestJS", "MongoDB", "TailwindCSS"],
   "projects": [
     {
