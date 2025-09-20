@@ -55,7 +55,7 @@
   "showFollowers": true,
   "followers": 189,
   "following": 57,
-  "themeId": "professional",
+  "themeId": "cyberpunk",
   "tech": ["React", "TypeScript", "Next.JS", "Node.js", "NestJS", "MongoDB", "TailwindCSS"],
   "projects": [
     {
